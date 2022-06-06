@@ -1,0 +1,1 @@
+# use-custom-script-in-codeigniter-with-same-database
